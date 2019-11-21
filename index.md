@@ -6,7 +6,7 @@ Currently the app has one major functionality, creating a video via a template.
 
 # Create Video via Template
 
-[Link](https://imgur.com/UZFN9jv)
+[Template Selection](https://i.imgur.com/UZFN9jv.png)
 
 ### Markdown
 
