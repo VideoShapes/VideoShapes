@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Video Shapes support
 
-You can use the [editor on GitHub](https://github.com/VideoShapes/VideoShapes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you experience any issues please contact help@videoshapes.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently the app has one major functionality, creating a video via a template.
+
+# Create Video via Template
+
+[Link](https://imgur.com/UZFN9jv)
 
 ### Markdown
 
