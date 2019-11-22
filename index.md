@@ -1,6 +1,7 @@
 ## Video Shapes support
+## If you experience any issues please contact help@videoshapes.com
 
-If you experience any issues please contact help@videoshapes.com
+[Privacy policy](https://app.termly.io/document/privacy-policy/48e6047e-6bd3-40f6-9655-aeff39c4c888) 
 
 Currently the app has one major functionality, creating a video via a template.
 
